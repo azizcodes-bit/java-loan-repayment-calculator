@@ -1,0 +1,15 @@
+Darlehnssume(Euro) :
+Jahreszinssatz in Prozent :
+Annuitaetsrate (Euro pro Jahr):
+ Jahr     Zinsen    Tilgung    Restschuld
+------------------------------------------
+------------------------------------------
+1      500.00      1500.00      8500.00
+2      425.00      1575.00      6925.00
+3      346.25      1653.75      5271.25
+4      263.56      1736.44      3534.81
+5      176.74      1823.26      1711.55
+Schlussrate: 1797.13 Euro
+Gesamtzahlung: 11797.13 Euro
+Anzahl der Raten: 5
+Noch einmal? j/n :
